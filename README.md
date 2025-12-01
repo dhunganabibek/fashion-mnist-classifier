@@ -18,7 +18,7 @@ Need Python installed
 
 ```bash
 cd backend
-pip install -r requirements.yxt
+pip install -r requirements.txt
 fast api dev
 ```
 

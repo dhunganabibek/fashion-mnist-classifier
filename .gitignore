@@ -1,1 +1,5 @@
+# ignore the dataset CSV files
 *.csv
+
+# ignore all images in the training/images directory
+training/images/*
