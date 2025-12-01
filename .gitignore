@@ -1,5 +1,7 @@
 # ignore the dataset CSV files
 *.csv
+.DS_Store
+*.pyc
 
 # ignore all images in the training/images directory
 training/images/*
